@@ -5,4 +5,4 @@ Some python hobby stuff
 * Facial Recognition on my son
 * Searching The bold recaps 
 
-[](wordcloudeten.png)
+![][wordcloudeten.png]
