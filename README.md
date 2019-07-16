@@ -6,4 +6,6 @@ Some python hobby stuff
 * Searching The bold recaps [rendered nb](https://nbviewer.jupyter.org/github/longhowlam/python_hobby_stuff/blob/master/TheBold.ipynb)
 * Ikea Billy Index [rendered nb](https://nbviewer.jupyter.org/github/longhowlam/python_hobby_stuff/blob/master/Billy.ipynb)
 
+---
+
 ![wordcloud](wordcloudeten.png)
