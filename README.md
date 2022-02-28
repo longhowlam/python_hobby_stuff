@@ -1,5 +1,5 @@
 # python_hobby_stuff
-Some python hobby stuff
+Some hobby stuff in Python (and R)
 
 * Restaurant Review analysis [rendered nb](https://nbviewer.jupyter.org/github/longhowlam/python_hobby_stuff/blob/master/RestaurantReviews.ipynb)
 * Facial Recognition on my son [rendered nb](https://nbviewer.jupyter.org/github/longhowlam/python_hobby_stuff/blob/master/face_similarity_experiment_son.ipynb)
